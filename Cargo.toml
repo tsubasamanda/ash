@@ -6,3 +6,4 @@ authors = [ "tsubasamanda" ]
 license = "MIT"
 
 [dependencies]
+colored = "3"
